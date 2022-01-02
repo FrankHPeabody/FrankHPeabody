@@ -26,4 +26,5 @@ If you're interested in playing along with the same modpack I put together, here
 
 --==--Resource Pack with Link--==--
 
-CoterieCraft 16x https://www.curseforge.com/minecraft/texture-packs/coterie-craft-16x/download
+1. CoterieCraft 16x https://www.curseforge.com/minecraft/texture-packs/coterie-craft-16x/download
+2. VanillaTweaks (customized) https://vanillatweaks.net/
