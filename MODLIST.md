@@ -23,3 +23,6 @@ If you're interested in playing along with the same modpack I put together, here
 3. Simple Damage Indicator | https://www.planetminecraft.com/data-pack/simply-damage-indicator/
 4. Spawn Animations | https://github.com/Tschipcraft/spawnanimations/releases/tag/v1.8(test)
 5. Treecapitator | https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/
+
+--==--Resource Pack with Link--==--
+CoterieCraft 16x https://www.curseforge.com/minecraft/texture-packs/coterie-craft-16x/download
